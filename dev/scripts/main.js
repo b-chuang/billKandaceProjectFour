@@ -224,7 +224,7 @@ $(function () {
 
 
 app.init = function(){
-  console.log('it is working');
+    console.log('it is working');
 };
 
 
